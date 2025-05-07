@@ -27,7 +27,7 @@ function App() {
       reminder: false
     }
   ])
-l
+
   //const[toogle, setToggle] = useState(false);
 
   const deleteTask = (id) => {
