@@ -32,7 +32,7 @@
 </ul>
 
 <br>
-dd
+d
 <h2>Authors</h2>
 <ul>
     <li>Weryck Thomaz Oliveira Dias: (https://github.com/WeryckOliveira)</li>
