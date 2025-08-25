@@ -28,7 +28,7 @@ function App() {
     }
   ])
 
-  //const[toogle, setToggle] = useState(false);1
+  //const[toogle, setToggle] = useState(false);
 
   const deleteTask = (id) => {
     setTasks(tasks.filter((task) => task.id !== id));
