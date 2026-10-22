@@ -5,7 +5,7 @@ const AddTask = ({onAdd}) => {
     const [text, setText] = useState('');
     const [day, setDay] = useState('');
     const [reminder, setReminder] = useState(false);
-dd
+
     const data = (e)=>{
         e.preventDefault();
 
