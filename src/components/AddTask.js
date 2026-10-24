@@ -26,6 +26,6 @@ const AddTask = ({onAdd}) => {
         </form>
     </div>
   )
-}
+}h
 
 export default AddTask
